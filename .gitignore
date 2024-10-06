@@ -4,6 +4,9 @@ attic/
 weights/
 
 
+poetry.lock
+
+
 # boilerplate from here on down
 
 
